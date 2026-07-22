@@ -4,11 +4,15 @@
 
 ### Java Developer | B.Tech CSE (AI/ML) Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2800&pause=1000&color=1D4ED8&center=true&vCenter=true&repeat=true&width=900&lines=Aspiring+Software+Engineer;Java+Backend+Developer;Problem+Solver;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=3200&pause=1000&center=true&vCenter=true&multicolor=true&width=850&lines=Aspiring+Software+Engineer;Java+Backend+Developer;Problem+Solver;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 
-<p><i>Building scalable software with Java and continuously improving through learning and hands-on projects.</i></p>
+<br>
+
+*"Passionate about building scalable applications, writing clean code, and continuously improving my problem-solving skills."*
 
 </div>
+
+---
 
 ## About Me
 
