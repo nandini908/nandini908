@@ -76,21 +76,16 @@
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nandini908&show_icons=true&theme=default" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini908&layout=compact&theme=default" />
-<br>
-<img src="https://streak-stats.demolab.com?user=nandini908&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandini908&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+  <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini908&layout=compact&theme=github_dark&cache_seconds=1800"/>
 </p>
 
 ---
 
 ## Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandini908&theme=github-compact" />
-</p>
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandini908&theme=github)
 ---
 
 ## Connect
