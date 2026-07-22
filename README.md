@@ -61,17 +61,10 @@
 
 ## Certifications
 
-### Walmart Global Tech – Advanced Software Engineering Job Simulation (Forage)
-- Successfully completed Walmart Global Tech's Advanced Software Engineering Job Simulation.
-- Gained hands-on experience in:
-  - Advanced Data Structures
-  - Software Architecture
-  - Relational Database Design
-  - Data Munging
+**Walmart Global Tech – Advanced Software Engineering Job Simulation (Forage)**
 - Completed: July 22, 2026
-- Certificate: https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a2173db9496486d3e1f3922_1784697157927_completion_certificate.pdf?raw=1
-
----
+- Topics: Advanced Data Structures, Software Architecture, Relational Database Design, Data Munging
+- Certificate:https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a2173db9496486d3e1f3922_1784697157927_completion_certificate.pdf?raw=1
 
 ## Connect
 
