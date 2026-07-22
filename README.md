@@ -1,16 +1,15 @@
 <div align="center">
 
-# Nandini Rai
+# Hi, I'm Nandini Rai 
 
 ### B.Tech CSE (AI/ML) Student | Java Developer | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Java+Developer;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+to+Internships+and+Entry-Level+Roles" />
-
-![](https://komarev.com/ghpvc/?username=nandini908)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Developer;Machine+Learning+Enthusiast;Open+to+Internships+and+Entry-Level+Roles" />
 
 </div>
 
 ---
+
 
 ## About Me
 
