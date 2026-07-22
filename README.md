@@ -72,11 +72,10 @@
 - Certificate: https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a2173db9496486d3e1f3922_1784697157927_completion_certificate.pdf?raw=1
 
 ---
-
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/nandini908" alt="Nandini Rai's GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandini908&theme=github-compact" />
 </p>
 
 ## Connect
