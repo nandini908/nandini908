@@ -73,20 +73,11 @@
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandini908&show_icons=true&theme=github_dark&cache_seconds=1800"/>
-  <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini908&layout=compact&theme=github_dark&cache_seconds=1800"/>
-</p>
-
----
-
 ## Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandini908&theme=github)
----
+<p align="center">
+  <img src="https://ghchart.rshah.org/nandini908" alt="Nandini Rai's GitHub Contribution Graph"/>
+</p>
 
 ## Connect
 
