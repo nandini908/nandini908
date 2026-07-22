@@ -1,18 +1,18 @@
 <div align="center">
 
-# Nandini Rai
+# Hi 👋, I'm Nandini Rai
 
 ### Java Developer | B.Tech CSE (AI/ML) Student
 
-**Aspiring Software Engineer | Open to Internships**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Developer;Backend+Development+Enthusiast;Machine+Learning+Enthusiast;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG"/>
 
-Passionate about building scalable software and continuously improving my problem-solving skills.
+<p>
+Passionate about building scalable software, solving real-world problems, and continuously improving my technical skills.
+</p>
 
 </div>
 
-
 ---
-
 
 ## About Me
 
