@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi, I'm Nandini Rai 
+# Nandini Rai
 
-### B.Tech CSE (AI/ML) Student | Java Developer | Aspiring Software Engineer
+### Java Developer | B.Tech CSE (AI/ML) Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Developer;Machine+Learning+Enthusiast;Open+to+Internships+and+Entry-Level+Roles" />
+**Aspiring Software Engineer | Open to Internships**
+
+Passionate about building scalable software and continuously improving my problem-solving skills.
 
 </div>
+
 
 ---
 
