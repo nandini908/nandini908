@@ -1,62 +1,113 @@
-Redesign my GitHub Profile README.md to make it look modern, professional, visually attractive, and recruiter-friendly.
+# Hi 👋, I'm Nandini Rai
 
-Use my existing information, but improve the layout, formatting, and visual presentation.
+<div align="center">
 
-**1. Header Section**
-- Display: Hi 👋, I'm Nandini Rai
-- Add a beautiful animated typing effect using a reliable Typing SVG.
-- The ONLY animated headline should be: "Aspiring Java Developer".
-- Use a professional font, smooth animation, and attractive colors.
-- Keep the animation centered.
-- Do not add unnecessary rotating titles like Software Engineer, Problem Solver, or Backend Developer.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Aspiring+Java+Developer" alt="Aspiring Java Developer" />
 
-**2. About Me**
-- B.Tech Computer Science Engineering (AI/ML), 2026 graduate.
-- Aspiring Java Developer.
-- Interested in Java Development and Backend Development.
-- Currently improving my Java, SQL, JDBC, OOPs, and Data Structures & Algorithms skills.
-- Looking for entry-level Java Developer opportunities.
+<br/>
 
-**3. Technical Skills**
-Display technology icons in a clean, centered layout:
-Java, Python, HTML, CSS, JavaScript, MySQL, Git, GitHub, VS Code.
+**B.Tech Computer Science Engineering (AI/ML) | 2026 Graduate**
 
-**4. Projects**
-Show my three projects in separate, attractive sections with descriptions and technology badges:
-- Hotel Reservation System – Java, MySQL, JDBC.
-- ATM Machine Project – Java.
-- Adaptive Behaviour Driven Process Monitoring and Malware Detection System – Python, Machine Learning.
+Building my skills in Java, Backend Development and Problem Solving.
 
-Add clickable GitHub repository links wherever the repository URLs are available. Do not invent repository links.
+<br/>
 
-**5. Certifications**
-Include:
-Walmart Global Tech – Advanced Software Engineering Job Simulation (Forage).
-Completion Date: July 22, 2026.
-Add a clickable certificate link using my existing certificate URL.
+<a href="https://github.com/nandini908">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/nandini-rai-092272321">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nrai8339@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**6. GitHub Statistics**
-Add attractive GitHub profile widgets:
-- GitHub Stats
-- Most Used Languages
-- GitHub Streak Stats
-Use my GitHub username: nandini908.
+</div>
 
-**7. Connect With Me**
-Add attractive clickable icons for:
-- GitHub: https://github.com/nandini908
-- LinkedIn: https://linkedin.com/in/nandini-rai-092272321
-- Email: nrai8339@gmail.com
+---
 
-**Design Requirements:**
-- Use a professional dark-themed aesthetic with a subtle purple/blue accent.
-- Use HTML and Markdown supported by GitHub README.
-- Add smooth typing animation and subtle visual effects through supported animated SVGs.
-- Use badges, icons, dividers, and proper spacing.
-- Keep everything aligned and visually balanced.
-- Avoid excessive emojis, unnecessary sections, and clutter.
-- Do not use CSS or JavaScript that GitHub README cannot render.
-- Ensure all image URLs and animation links work.
-- Make the README responsive and readable on desktop and mobile.
+## 👩‍💻 About Me
 
-**Important:** Update the actual README.md file in my GitHub profile repository. Do not just show me a preview or provide instructions. Preserve my real information and do not invent any achievements, skills, or project links.
+- 🎓 B.Tech graduate in Computer Science Engineering (AI/ML), 2026 batch.
+- 💻 Interested in Java Development and Backend Development.
+- 🌱 Currently strengthening my knowledge of Java, SQL, JDBC, OOPs and Data Structures & Algorithms.
+- 🧠 Enjoy solving coding problems and learning new technologies.
+- 🎯 Looking for entry-level Java Developer opportunities.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### 🏨 Hotel Reservation System
+- Developed a Java-based application for hotel room booking, reservations and customer management.
+- **Technologies:** Java, MySQL, JDBC.
+
+### 🏧 ATM Machine Project
+- Built a Java application simulating ATM operations such as deposit, withdrawal, balance inquiry and PIN authentication.
+- **Technologies:** Java.
+
+### 🔐 Adaptive Behaviour Driven Process Monitoring and Malware Detection System
+- Developed a machine learning-based solution for adaptive process monitoring and malware detection.
+- **Technologies:** Python, Machine Learning.
+
+---
+
+## 📜 Certifications
+
+**Walmart Global Tech – Advanced Software Engineering Job Simulation**
+
+- Platform: Forage
+- Completed: July 22, 2026
+- Topics: Advanced Data Structures, Software Architecture, Relational Database Design and Data Munging.
+
+[View Certificate](https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a2173db9496486d3e1f3922_1784697157927_completion_certificate.pdf?raw=1)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandini908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini908&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nandini908&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nandini908">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/nandini-rai-092272321">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nrai8339@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile! 💜**
+
+</div>
